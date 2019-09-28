@@ -8,6 +8,6 @@ def change
     t.boolean :in_business
     t.datetime :opening
     t.datetime :closing
-
+  end
 end
 end
